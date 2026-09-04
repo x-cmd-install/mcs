@@ -7,7 +7,7 @@ about:
   head: dba3f34
   archived: false
   latestVersion: v0.11.0
-  collectedAt: 2026-09-04T19:24:40Z
+  collectedAt: 2026-09-04T21:09:46Z
 timeline:
   created: 2021-09-27
   lastCommit: 2026-08-19
@@ -80,5 +80,48 @@ total:
   openIssue: 16
   commit: 874
 ---
+path: /home/runner/.x-repo/github.com/mthmulders/mcs
+collectedAt: 2026-09-04T21:09:46Z
+loc:
+  Java:
+    code: 3589
+    comments: 226
+    blanks: 688
+    files: 85
+  Xml:
+    code: 590
+    comments: 7
+    blanks: 23
+    files: 2
+  Json:
+    code: 239
+    comments: 0
+    blanks: 0
+    files: 6
+  Sh:
+    code: 210
+    comments: 53
+    blanks: 32
+    files: 1
+  Batch:
+    code: 165
+    comments: 0
+    blanks: 24
+    files: 1
+  Yaml:
+    code: 123
+    comments: 0
+    blanks: 3
+    files: 2
+  Markdown:
+    code: 0
+    comments: 148
+    blanks: 48
+    files: 3
+total:
+  code: 4916
+  comments: 434
+  blanks: 818
+  files: 100
 ---
 
