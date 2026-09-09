@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15726552,
       "digest": "sha256:44bfbbfc74e3b50ed8ea6982009a7a37d3968e52aacc4496b0b6bb3e28b7bb10",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-08-19T08:07:01Z",
       "updated_at": "2026-08-19T08:07:02Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-linux-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15726577,
       "digest": "sha256:250b79e233c1bc547083cc7504193b205730c1ad823a247687c6b4cd67d6a212",
-      "download_count": 47,
+      "download_count": 49,
       "created_at": "2026-08-19T08:07:03Z",
       "updated_at": "2026-08-19T08:07:04Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-linux-x86_64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15766828,
       "digest": "sha256:b292325e01a08d028520f9354d7a079174aadd5a24547c23cf30a17b5883a47a",
-      "download_count": 79,
+      "download_count": 80,
       "created_at": "2026-08-19T08:07:04Z",
       "updated_at": "2026-08-19T08:07:06Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-osx-aarch_64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15608027,
       "digest": "sha256:1ade16aa13b582ae84d7a205fa79e5d0f2e8efdaf9ba7b7c699ef009ac107238",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-19T08:07:06Z",
       "updated_at": "2026-08-19T08:07:08Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-osx-x86_64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15894111,
       "digest": "sha256:2cf8ee79f97131526c5aa3cce91de1e848c737877526673540899304209de8c7",
-      "download_count": 43,
+      "download_count": 45,
       "created_at": "2026-08-19T08:07:08Z",
       "updated_at": "2026-08-19T08:07:10Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-windows-x86_64.zip"
