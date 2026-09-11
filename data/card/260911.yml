@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.11.0"
   latestRelease: "v0.11.0"
   latestPrerelease: "early-access"
-  collectedAt: 2026-09-11T06:21:37Z
+  collectedAt: 2026-09-11T18:33:32Z
 timeline:
   created: 2021-09-27
   lastCommit: 2026-08-19
@@ -83,7 +83,7 @@ total:
   commit: 874
 ---
 path: /home/runner/.x-repo/github.com/mthmulders/mcs
-collectedAt: 2026-09-11T06:21:38Z
+collectedAt: 2026-09-11T18:33:33Z
 loc:
   Java:
     code: 3589
