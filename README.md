@@ -48,12 +48,12 @@ Total: **4,916** lines of code across **95** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 4 | 4 | 0 | 0 | 9 |
-| last60d | 2026-07-13 | 3 | 10 | 4 | 1 | 2 | 34 |
-| 90d | 2026-06-13 | 4 | 26 | 4 | 2 | 2 | 53 |
-| last180d | 2026-03-15 | 6 | 49 | 4 | 3 | 2 | 76 |
-| 360d | 2025-09-16 | 18 | 116 | 4 | 7 | 3 | 243 |
-| last720d | 2024-09-21 | 24 | 218 | 4 | 16 | 6 | 386 |
+| 30d | 2026-08-13 | 2 | 4 | 4 | 0 | 0 | 9 |
+| last60d | 2026-07-14 | 3 | 10 | 4 | 1 | 2 | 34 |
+| 90d | 2026-06-14 | 4 | 26 | 4 | 2 | 2 | 53 |
+| last180d | 2026-03-16 | 6 | 48 | 4 | 3 | 2 | 76 |
+| 360d | 2025-09-17 | 18 | 116 | 4 | 7 | 3 | 243 |
+| last720d | 2024-09-22 | 24 | 218 | 4 | 16 | 6 | 386 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for mcs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:33:37Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:56:58Z._
