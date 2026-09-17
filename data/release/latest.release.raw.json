@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 554,
       "digest": "sha256:024c79d57cbf0f1972e23294d6f7055764b21d648e3cf52e852fa749cea1160d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-19T08:07:00Z",
       "updated_at": "2026-08-19T08:07:00Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.0/checksums_sha256.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15726552,
       "digest": "sha256:44bfbbfc74e3b50ed8ea6982009a7a37d3968e52aacc4496b0b6bb3e28b7bb10",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-08-19T08:07:01Z",
       "updated_at": "2026-08-19T08:07:02Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-linux-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15726577,
       "digest": "sha256:250b79e233c1bc547083cc7504193b205730c1ad823a247687c6b4cd67d6a212",
-      "download_count": 68,
+      "download_count": 70,
       "created_at": "2026-08-19T08:07:03Z",
       "updated_at": "2026-08-19T08:07:04Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-linux-x86_64.zip"
