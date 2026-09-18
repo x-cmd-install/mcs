@@ -32,8 +32,8 @@ Total: **4,916** lines of code across **95** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.11.0` (2026-08-19)
-- **Last commit**: 2026-08-19
+- **Latest**: `v0.11.1` (2026-09-17)
+- **Last commit**: 2026-09-17
 - **Assets in release**: 8
 
 ## Popularity
@@ -42,31 +42,31 @@ Total: **4,916** lines of code across **95** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 413 · **Open PRs**: 5 · **Closed issues**: 55 · **Open issues**: 16 · **Commits**: 874
+- **Releases**: 66 · **Merged PRs**: 417 · **Open PRs**: 5 · **Closed issues**: 55 · **Open issues**: 16 · **Commits**: 880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 2 | 1 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 2 | 8 | 4 | 1 | 2 | 18 |
-| 90d | 2026-06-19 | 4 | 21 | 4 | 2 | 2 | 40 |
-| last180d | 2026-03-21 | 5 | 47 | 4 | 3 | 2 | 76 |
-| 360d | 2025-09-22 | 17 | 114 | 4 | 5 | 3 | 234 |
-| last720d | 2024-09-27 | 24 | 218 | 4 | 16 | 6 | 386 |
+| 30d | 2026-08-19 | 3 | 4 | 4 | 0 | 0 | 6 |
+| last60d | 2026-07-20 | 3 | 12 | 4 | 1 | 2 | 24 |
+| 90d | 2026-06-20 | 5 | 25 | 4 | 2 | 2 | 46 |
+| last180d | 2026-03-22 | 6 | 51 | 4 | 3 | 2 | 82 |
+| 360d | 2025-09-23 | 18 | 117 | 4 | 5 | 3 | 240 |
+| last720d | 2024-09-28 | 25 | 222 | 4 | 16 | 6 | 392 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.0/checksums_sha256.txt) | 554 B | `other` |
-| [mcs-0.11.0-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.0-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.0-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-osx-aarch_64.zip) | 15.0 MiB | `native/darwin/x64` |
-| [mcs-0.11.0-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
-| [mcs-0.11.0-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
-| [mcs-0.11.0-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
-| [mcs-0.11.0.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0.jar) | 1.2 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.1/checksums_sha256.txt) | 554 B | `other` |
+| [mcs-0.11.1-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.1-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.1-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-osx-aarch_64.zip) | 15.0 MiB | `native/darwin/x64` |
+| [mcs-0.11.1-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
+| [mcs-0.11.1-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
+| [mcs-0.11.1-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
+| [mcs-0.11.1.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1.jar) | 1.2 MiB | `other` |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for mcs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:34:26Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:38:13Z._

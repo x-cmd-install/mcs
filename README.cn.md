@@ -32,8 +32,8 @@ x install mcs
 
 ## 发布
 
-- **最新版本**: `v0.11.0` (2026-08-19)
-- **最近提交**: 2026-08-19
+- **最新版本**: `v0.11.1` (2026-09-17)
+- **最近提交**: 2026-09-17
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -42,31 +42,31 @@ x install mcs
 
 ## 累计统计
 
-- **发布数**: 65 · **已合并 PR**: 413 · **开放 PR**: 5 · **已关闭 issue**: 55 · **开放 issue**: 16 · **提交数**: 874
+- **发布数**: 66 · **已合并 PR**: 417 · **开放 PR**: 5 · **已关闭 issue**: 55 · **开放 issue**: 16 · **提交数**: 880
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 2 | 1 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 2 | 8 | 4 | 1 | 2 | 18 |
-| 90d | 2026-06-19 | 4 | 21 | 4 | 2 | 2 | 40 |
-| last180d | 2026-03-21 | 5 | 47 | 4 | 3 | 2 | 76 |
-| 360d | 2025-09-22 | 17 | 114 | 4 | 5 | 3 | 234 |
-| last720d | 2024-09-27 | 24 | 218 | 4 | 16 | 6 | 386 |
+| 30d | 2026-08-19 | 3 | 4 | 4 | 0 | 0 | 6 |
+| last60d | 2026-07-20 | 3 | 12 | 4 | 1 | 2 | 24 |
+| 90d | 2026-06-20 | 5 | 25 | 4 | 2 | 2 | 46 |
+| last180d | 2026-03-22 | 6 | 51 | 4 | 3 | 2 | 82 |
+| 360d | 2025-09-23 | 18 | 117 | 4 | 5 | 3 | 240 |
+| last720d | 2024-09-28 | 25 | 222 | 4 | 16 | 6 | 392 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.0/checksums_sha256.txt) | 554 B | `other` |
-| [mcs-0.11.0-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.0-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.0-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-osx-aarch_64.zip) | 15.0 MiB | `native/darwin/x64` |
-| [mcs-0.11.0-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
-| [mcs-0.11.0-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
-| [mcs-0.11.0-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
-| [mcs-0.11.0.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.0/mcs-0.11.0.jar) | 1.2 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.1/checksums_sha256.txt) | 554 B | `other` |
+| [mcs-0.11.1-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.1-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.1-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-osx-aarch_64.zip) | 15.0 MiB | `native/darwin/x64` |
+| [mcs-0.11.1-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
+| [mcs-0.11.1-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
+| [mcs-0.11.1-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
+| [mcs-0.11.1.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1.jar) | 1.2 MiB | `other` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ mcs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260917.yml` · 2026-09-17T06:34:26Z._
+_数据快照: `data/card/260918.yml` · 2026-09-18T06:38:14Z._
