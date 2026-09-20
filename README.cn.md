@@ -4,7 +4,7 @@
 
 Search the Maven Central Repository from your command line!
 
-![mcs](https://repo.x-cmd.io/mcs.svg?lang=zh)
+[![x-cmd/install — mcs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mcs.svg?lang=zh)](https://x-cmd.com/install/mcs)
 
 ## 安装
 
@@ -48,12 +48,12 @@ x install mcs
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 4 | 4 | 0 | 0 | 6 |
-| last60d | 2026-07-20 | 3 | 12 | 4 | 1 | 2 | 24 |
-| 90d | 2026-06-20 | 5 | 25 | 4 | 2 | 2 | 46 |
-| last180d | 2026-03-22 | 6 | 51 | 4 | 3 | 2 | 82 |
-| 360d | 2025-09-23 | 18 | 117 | 4 | 5 | 3 | 240 |
-| last720d | 2024-09-28 | 25 | 222 | 4 | 16 | 6 | 392 |
+| 30d | 2026-08-21 | 2 | 3 | 4 | 0 | 0 | 6 |
+| last60d | 2026-07-22 | 3 | 12 | 4 | 1 | 2 | 17 |
+| 90d | 2026-06-22 | 5 | 25 | 4 | 2 | 2 | 43 |
+| last180d | 2026-03-24 | 6 | 51 | 4 | 3 | 2 | 82 |
+| 360d | 2025-09-25 | 18 | 115 | 4 | 5 | 3 | 240 |
+| last720d | 2024-09-30 | 25 | 222 | 4 | 16 | 6 | 392 |
 
 ## Release 资产
 
@@ -77,4 +77,4 @@ mcs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:38:14Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:23:05Z._
