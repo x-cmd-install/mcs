@@ -42,18 +42,18 @@ Total: **4,916** lines of code across **95** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 417 · **Open PRs**: 5 · **Closed issues**: 55 · **Open issues**: 16 · **Commits**: 880
+- **Releases**: 66 · **Merged PRs**: 417 · **Open PRs**: 6 · **Closed issues**: 55 · **Open issues**: 16 · **Commits**: 880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 2 | 3 | 4 | 0 | 0 | 6 |
-| last60d | 2026-07-22 | 3 | 12 | 4 | 1 | 2 | 17 |
-| 90d | 2026-06-22 | 5 | 25 | 4 | 2 | 2 | 43 |
-| last180d | 2026-03-24 | 6 | 51 | 4 | 3 | 2 | 82 |
-| 360d | 2025-09-25 | 18 | 115 | 4 | 5 | 3 | 240 |
-| last720d | 2024-09-30 | 25 | 222 | 4 | 16 | 6 | 392 |
+| 30d | 2026-08-22 | 2 | 3 | 5 | 0 | 0 | 6 |
+| last60d | 2026-07-23 | 3 | 11 | 5 | 1 | 2 | 17 |
+| 90d | 2026-06-23 | 4 | 25 | 5 | 1 | 2 | 43 |
+| last180d | 2026-03-25 | 6 | 51 | 5 | 3 | 2 | 82 |
+| 360d | 2025-09-26 | 18 | 113 | 5 | 5 | 3 | 240 |
+| last720d | 2024-10-01 | 25 | 222 | 5 | 16 | 6 | 392 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for mcs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:23:05Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:32:24Z._
