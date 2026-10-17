@@ -14,7 +14,7 @@ x install mcs
 
 ## Code insight
 
-Total: **4,916** lines of code across **95** files in the top 5 languages.
+Total: **4,917** lines of code across **95** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -32,8 +32,8 @@ Total: **4,916** lines of code across **95** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.11.1` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Latest**: `v0.11.2` (2026-10-16)
+- **Last commit**: 2026-10-16
 - **Assets in release**: 8
 
 ## Popularity
@@ -42,31 +42,31 @@ Total: **4,916** lines of code across **95** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 417 · **Open PRs**: 6 · **Closed issues**: 55 · **Open issues**: 16 · **Commits**: 880
+- **Releases**: 67 · **Merged PRs**: 422 · **Open PRs**: 1 · **Closed issues**: 55 · **Open issues**: 16 · **Commits**: 888
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 3 | 7 | 5 | 0 | 0 | 9 |
-| 90d | 2026-07-18 | 3 | 12 | 5 | 1 | 2 | 24 |
-| last180d | 2026-04-19 | 6 | 48 | 5 | 3 | 2 | 81 |
-| 360d | 2025-10-21 | 17 | 109 | 5 | 4 | 3 | 218 |
-| last720d | 2024-10-26 | 25 | 193 | 5 | 16 | 6 | 358 |
+| 30d | 2026-09-17 | 3 | 5 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-18 | 4 | 10 | 0 | 0 | 0 | 17 |
+| 90d | 2026-07-19 | 4 | 17 | 0 | 1 | 2 | 32 |
+| last180d | 2026-04-20 | 7 | 51 | 0 | 3 | 2 | 89 |
+| 360d | 2025-10-22 | 18 | 114 | 0 | 4 | 3 | 226 |
+| last720d | 2024-10-27 | 26 | 198 | 0 | 16 | 6 | 366 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.1/checksums_sha256.txt) | 554 B | `other` |
-| [mcs-0.11.1-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.1-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.1-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-osx-aarch_64.zip) | 15.0 MiB | `native/darwin/x64` |
-| [mcs-0.11.1-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
-| [mcs-0.11.1-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
-| [mcs-0.11.1-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
-| [mcs-0.11.1.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1.jar) | 1.2 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.2/checksums_sha256.txt) | 554 B | `other` |
+| [mcs-0.11.2-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.2-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.2-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-osx-aarch_64.zip) | 15.0 MiB | `native/darwin/x64` |
+| [mcs-0.11.2-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
+| [mcs-0.11.2-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
+| [mcs-0.11.2-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
+| [mcs-0.11.2.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2.jar) | 1.2 MiB | `other` |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for mcs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:43:40Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:36:27Z._

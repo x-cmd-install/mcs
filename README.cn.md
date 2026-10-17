@@ -14,7 +14,7 @@ x install mcs
 
 ## 代码洞察
 
-合计: **4,916** 行代码（覆盖前 5 种语言、共 **95** 个文件）。
+合计: **4,917** 行代码（覆盖前 5 种语言、共 **95** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -32,8 +32,8 @@ x install mcs
 
 ## 发布
 
-- **最新版本**: `v0.11.1` (2026-09-17)
-- **最近提交**: 2026-09-17
+- **最新版本**: `v0.11.2` (2026-10-16)
+- **最近提交**: 2026-10-16
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -42,31 +42,31 @@ x install mcs
 
 ## 累计统计
 
-- **发布数**: 66 · **已合并 PR**: 417 · **开放 PR**: 6 · **已关闭 issue**: 55 · **开放 issue**: 16 · **提交数**: 880
+- **发布数**: 67 · **已合并 PR**: 422 · **开放 PR**: 1 · **已关闭 issue**: 55 · **开放 issue**: 16 · **提交数**: 888
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 3 | 7 | 5 | 0 | 0 | 9 |
-| 90d | 2026-07-18 | 3 | 12 | 5 | 1 | 2 | 24 |
-| last180d | 2026-04-19 | 6 | 48 | 5 | 3 | 2 | 81 |
-| 360d | 2025-10-21 | 17 | 109 | 5 | 4 | 3 | 218 |
-| last720d | 2024-10-26 | 25 | 193 | 5 | 16 | 6 | 358 |
+| 30d | 2026-09-17 | 3 | 5 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-18 | 4 | 10 | 0 | 0 | 0 | 17 |
+| 90d | 2026-07-19 | 4 | 17 | 0 | 1 | 2 | 32 |
+| last180d | 2026-04-20 | 7 | 51 | 0 | 3 | 2 | 89 |
+| 360d | 2025-10-22 | 18 | 114 | 0 | 4 | 3 | 226 |
+| last720d | 2024-10-27 | 26 | 198 | 0 | 16 | 6 | 366 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.1/checksums_sha256.txt) | 554 B | `other` |
-| [mcs-0.11.1-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.1-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.1-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-osx-aarch_64.zip) | 15.0 MiB | `native/darwin/x64` |
-| [mcs-0.11.1-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
-| [mcs-0.11.1-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
-| [mcs-0.11.1-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
-| [mcs-0.11.1.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.1/mcs-0.11.1.jar) | 1.2 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.2/checksums_sha256.txt) | 554 B | `other` |
+| [mcs-0.11.2-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.2-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.2-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-osx-aarch_64.zip) | 15.0 MiB | `native/darwin/x64` |
+| [mcs-0.11.2-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
+| [mcs-0.11.2-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
+| [mcs-0.11.2-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
+| [mcs-0.11.2.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2.jar) | 1.2 MiB | `other` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ mcs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261016.yml` · 2026-10-16T05:43:41Z._
+_数据快照: `data/card/261017.yml` · 2026-10-17T05:36:27Z._
