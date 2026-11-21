@@ -14,13 +14,13 @@ x install mcs
 
 ## Code insight
 
-Total: **4,917** lines of code across **95** files in the top 5 languages.
+Total: **5,227** lines of code across **97** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 3,589 | 226 | 688 | 85 |
+| Java | 3,625 | 232 | 696 | 85 |
 | Xml | 590 | 7 | 23 | 2 |
-| Json | 239 | 0 | 0 | 6 |
+| Json | 513 | 0 | 0 | 8 |
 | Sh | 210 | 53 | 32 | 1 |
 | Batch | 165 | 0 | 24 | 1 |
 
@@ -42,18 +42,18 @@ Total: **4,917** lines of code across **95** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 435 · **Open PRs**: 7 · **Closed issues**: 55 · **Open issues**: 16 · **Commits**: 902
+- **Releases**: 67 · **Merged PRs**: 435 · **Open PRs**: 7 · **Closed issues**: 55 · **Open issues**: 16 · **Commits**: 904
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 7 | 6 | 0 | 0 | 13 |
-| last60d | 2026-09-21 | 2 | 15 | 6 | 0 | 0 | 22 |
-| 90d | 2026-08-22 | 3 | 21 | 6 | 0 | 0 | 28 |
-| last180d | 2026-05-24 | 6 | 53 | 6 | 2 | 2 | 81 |
-| 360d | 2025-11-25 | 11 | 110 | 6 | 3 | 3 | 169 |
-| last720d | 2024-11-30 | 26 | 210 | 6 | 15 | 6 | 380 |
+| 30d | 2026-10-22 | 0 | 7 | 6 | 0 | 0 | 15 |
+| last60d | 2026-09-22 | 2 | 15 | 6 | 0 | 0 | 24 |
+| 90d | 2026-08-23 | 3 | 21 | 6 | 0 | 0 | 30 |
+| last180d | 2026-05-25 | 6 | 52 | 6 | 2 | 2 | 83 |
+| 360d | 2025-11-26 | 11 | 110 | 6 | 3 | 3 | 171 |
+| last720d | 2024-12-01 | 26 | 210 | 6 | 15 | 6 | 382 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for mcs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:45:17Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T09:06:21Z._
