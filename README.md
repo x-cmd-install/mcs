@@ -14,13 +14,13 @@ x install mcs
 
 ## Code insight
 
-Total: **5,227** lines of code across **97** files in the top 5 languages.
+Total: **5,932** lines of code across **105** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 3,625 | 232 | 696 | 85 |
+| Java | 3,678 | 231 | 705 | 87 |
+| Json | 1,165 | 0 | 0 | 14 |
 | Xml | 590 | 7 | 23 | 2 |
-| Json | 513 | 0 | 0 | 8 |
 | Sh | 210 | 53 | 32 | 1 |
 | Batch | 165 | 0 | 24 | 1 |
 
@@ -32,8 +32,8 @@ Total: **5,227** lines of code across **97** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.11.2` (2026-10-16)
-- **Last commit**: 2026-11-20
+- **Latest**: `v0.11.4` (2026-11-21)
+- **Last commit**: 2026-11-21
 - **Assets in release**: 8
 
 ## Popularity
@@ -42,31 +42,31 @@ Total: **5,227** lines of code across **97** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 435 · **Open PRs**: 7 · **Closed issues**: 55 · **Open issues**: 16 · **Commits**: 904
+- **Releases**: 68 · **Merged PRs**: 441 · **Open PRs**: 1 · **Closed issues**: 55 · **Open issues**: 16 · **Commits**: 919
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 7 | 6 | 0 | 0 | 15 |
-| last60d | 2026-09-22 | 2 | 15 | 6 | 0 | 0 | 24 |
-| 90d | 2026-08-23 | 3 | 21 | 6 | 0 | 0 | 30 |
-| last180d | 2026-05-25 | 6 | 52 | 6 | 2 | 2 | 83 |
-| 360d | 2025-11-26 | 11 | 110 | 6 | 3 | 3 | 171 |
-| last720d | 2024-12-01 | 26 | 210 | 6 | 15 | 6 | 382 |
+| 30d | 2026-10-23 | 1 | 13 | 0 | 0 | 0 | 30 |
+| last60d | 2026-09-23 | 3 | 21 | 0 | 0 | 0 | 39 |
+| 90d | 2026-08-24 | 4 | 26 | 0 | 0 | 0 | 45 |
+| last180d | 2026-05-26 | 7 | 58 | 0 | 2 | 2 | 98 |
+| 360d | 2025-11-27 | 12 | 116 | 0 | 3 | 3 | 186 |
+| last720d | 2024-12-02 | 27 | 216 | 0 | 15 | 6 | 397 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.2/checksums_sha256.txt) | 554 B | `other` |
-| [mcs-0.11.2-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.2-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.2-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-osx-aarch_64.zip) | 15.0 MiB | `native/darwin/x64` |
-| [mcs-0.11.2-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
-| [mcs-0.11.2-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
-| [mcs-0.11.2-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
-| [mcs-0.11.2.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2.jar) | 1.2 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.4/checksums_sha256.txt) | 554 B | `other` |
+| [mcs-0.11.4-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.4-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.4-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-osx-aarch_64.zip) | 15.1 MiB | `native/darwin/x64` |
+| [mcs-0.11.4-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
+| [mcs-0.11.4-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
+| [mcs-0.11.4-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
+| [mcs-0.11.4.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4.jar) | 1.3 MiB | `other` |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for mcs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T09:06:21Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:39:33Z._

@@ -14,13 +14,13 @@ x install mcs
 
 ## 代码洞察
 
-合计: **5,227** 行代码（覆盖前 5 种语言、共 **97** 个文件）。
+合计: **5,932** 行代码（覆盖前 5 种语言、共 **105** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Java | 3,625 | 232 | 696 | 85 |
+| Java | 3,678 | 231 | 705 | 87 |
+| Json | 1,165 | 0 | 0 | 14 |
 | Xml | 590 | 7 | 23 | 2 |
-| Json | 513 | 0 | 0 | 8 |
 | Sh | 210 | 53 | 32 | 1 |
 | Batch | 165 | 0 | 24 | 1 |
 
@@ -32,8 +32,8 @@ x install mcs
 
 ## 发布
 
-- **最新版本**: `v0.11.2` (2026-10-16)
-- **最近提交**: 2026-11-20
+- **最新版本**: `v0.11.4` (2026-11-21)
+- **最近提交**: 2026-11-21
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -42,31 +42,31 @@ x install mcs
 
 ## 累计统计
 
-- **发布数**: 67 · **已合并 PR**: 435 · **开放 PR**: 7 · **已关闭 issue**: 55 · **开放 issue**: 16 · **提交数**: 904
+- **发布数**: 68 · **已合并 PR**: 441 · **开放 PR**: 1 · **已关闭 issue**: 55 · **开放 issue**: 16 · **提交数**: 919
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 7 | 6 | 0 | 0 | 15 |
-| last60d | 2026-09-22 | 2 | 15 | 6 | 0 | 0 | 24 |
-| 90d | 2026-08-23 | 3 | 21 | 6 | 0 | 0 | 30 |
-| last180d | 2026-05-25 | 6 | 52 | 6 | 2 | 2 | 83 |
-| 360d | 2025-11-26 | 11 | 110 | 6 | 3 | 3 | 171 |
-| last720d | 2024-12-01 | 26 | 210 | 6 | 15 | 6 | 382 |
+| 30d | 2026-10-23 | 1 | 13 | 0 | 0 | 0 | 30 |
+| last60d | 2026-09-23 | 3 | 21 | 0 | 0 | 0 | 39 |
+| 90d | 2026-08-24 | 4 | 26 | 0 | 0 | 0 | 45 |
+| last180d | 2026-05-26 | 7 | 58 | 0 | 2 | 2 | 98 |
+| 360d | 2025-11-27 | 12 | 116 | 0 | 3 | 3 | 186 |
+| last720d | 2024-12-02 | 27 | 216 | 0 | 15 | 6 | 397 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.2/checksums_sha256.txt) | 554 B | `other` |
-| [mcs-0.11.2-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.2-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
-| [mcs-0.11.2-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-osx-aarch_64.zip) | 15.0 MiB | `native/darwin/x64` |
-| [mcs-0.11.2-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
-| [mcs-0.11.2-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
-| [mcs-0.11.2-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
-| [mcs-0.11.2.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.2/mcs-0.11.2.jar) | 1.2 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/mthmulders/mcs/releases/download/v0.11.4/checksums_sha256.txt) | 554 B | `other` |
+| [mcs-0.11.4-linux-x86_64.tar.gz](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-linux-x86_64.tar.gz) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.4-linux-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-linux-x86_64.zip) | 15.0 MiB | `native/linux/x64` |
+| [mcs-0.11.4-osx-aarch_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-osx-aarch_64.zip) | 15.1 MiB | `native/darwin/x64` |
+| [mcs-0.11.4-osx-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-osx-x86_64.zip) | 14.9 MiB | `native/darwin/x64` |
+| [mcs-0.11.4-windows-x86_64.zip](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
+| [mcs-0.11.4-windows-x86_64.zip.sha256](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-windows-x86_64.zip.sha256) | 64 B | `native/win/x64` |
+| [mcs-0.11.4.jar](https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4.jar) | 1.3 MiB | `other` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ mcs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T09:06:21Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T08:39:33Z._
