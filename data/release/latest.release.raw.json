@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15753677,
       "digest": "sha256:eb820412410a99966f8db2e7ac2c83c4e2c24ba3f34af2061cd279c817ed8467",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-21T12:58:25Z",
       "updated_at": "2026-11-21T12:58:27Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-linux-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15752990,
       "digest": "sha256:e8b124c6444d9f0b05e692b1df565bfffdb6ef173e0266a3deaf846f58c67076",
-      "download_count": 27,
+      "download_count": 31,
       "created_at": "2026-11-21T12:58:27Z",
       "updated_at": "2026-11-21T12:58:28Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-linux-x86_64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15790608,
       "digest": "sha256:30dd851f57f6384e3b33eea497d2296eb2993c7e866e286512181b4fbff5eca5",
-      "download_count": 41,
+      "download_count": 49,
       "created_at": "2026-11-21T12:58:29Z",
       "updated_at": "2026-11-21T12:58:30Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-osx-aarch_64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15924133,
       "digest": "sha256:5364480fcc299c411e34aa1aa0ef2e60dbb8242c3d75cbf7c05e06a55b38654a",
-      "download_count": 21,
+      "download_count": 27,
       "created_at": "2026-11-21T12:58:32Z",
       "updated_at": "2026-11-21T12:58:33Z",
       "browser_download_url": "https://github.com/mthmulders/mcs/releases/download/v0.11.4/mcs-0.11.4-windows-x86_64.zip"
